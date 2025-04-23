@@ -12,3 +12,7 @@ Disini ada beberapa daftar CV untuk melamar kerja
 
 - **Nicholas**  
   [Lihat CV Nicholas](https://milas1818.github.io/Project/nicholas.html)
+
+##Bahasa Pemograman yang di gunakan
+-HTML
+-CSS
