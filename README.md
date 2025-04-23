@@ -1,6 +1,6 @@
 # Proyek CV Melamar Kerja
 
-Disini ada beberapa daftar CV untuk melamr kerja 
+Disini ada beberapa daftar CV untuk melamar kerja 
 
 ## Daftar CV
 
