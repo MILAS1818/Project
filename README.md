@@ -16,3 +16,8 @@ Disini ada beberapa daftar CV untuk melamar kerja
 ## Bahasa Pemograman yang di gunakan
 - **HTML**
 - **CSS**
+
+## Berikut link Landing Page
+
+[Landing Page](https://milas1818.github.io/Project/gabung.html)
+
