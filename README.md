@@ -1,6 +1,6 @@
-# Proyek CV Mahasiswa
+# Proyek CV Melamar Kerja
 
-Repositori ini berisi proyek pembuatan Curriculum Vitae (CV) digital untuk beberapa mahasiswa. Setiap CV dibuat menggunakan HTML dan CSS, dan ditampilkan secara online melalui GitHub Pages. Tujuan dari proyek ini adalah untuk menampilkan informasi pribadi, pengalaman, dan keterampilan masing-masing mahasiswa dalam bentuk web CV yang menarik dan responsif.
+Disini ada beberapa daftar CV untuk melamr kerja 
 
 ## Daftar CV
 
